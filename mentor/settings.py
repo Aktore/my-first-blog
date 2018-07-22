@@ -25,7 +25,7 @@ SECRET_KEY = '%6%qx5@$js92#m9)vy88hgf3mnfdvq&^!pbeeg=ny&2k3x6f&c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'aktore.anywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'aktore.pythonanywhere.com']
 
 
 # Application definition
